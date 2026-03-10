@@ -20,7 +20,7 @@ export default function Footer() {
           </span>
         </a>
 
-        <p className="text-[0.6rem] tracking-wider text-moss">
+        <p className="text-xs tracking-wider text-moss">
           © {new Date().getFullYear()} {BRAND.full} · {BRAND.city}
         </p>
 
@@ -31,7 +31,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
-            className="flex items-center gap-1.5 text-[0.6rem] tracking-widest uppercase
+            className="flex items-center gap-1.5 text-xs tracking-widest uppercase
                        text-moss hover:text-gold-light transition-colors group"
           >
             <InstagramLogo
@@ -46,7 +46,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
-            className="flex items-center gap-1.5 text-[0.6rem] tracking-widest uppercase
+            className="flex items-center gap-1.5 text-xs tracking-widest uppercase
                        text-moss hover:text-gold-light transition-colors group"
           >
             <WhatsappLogo
@@ -61,7 +61,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Google Maps"
-            className="flex items-center gap-1.5 text-[0.6rem] tracking-widest uppercase
+            className="flex items-center gap-1.5 text-xs tracking-widest uppercase
                        text-moss hover:text-gold-light transition-colors group"
           >
             <MapPin
