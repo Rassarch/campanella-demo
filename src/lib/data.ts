@@ -8,7 +8,7 @@ export const BRAND = {
   full: "Campanella Coffee & Eatery",
   tagline: "Tempat Terbaik untuk Setiap Momen",
   subTagline:
-    "Tiga zona — indoor mewah, outdoor sawah, rooftop semi-terbuka. Satu tujuan: membuat setiap kunjungan terasa istimewa.",
+    "Coffee shop Metro terbaik dengan 3 zona premium: indoor mewah, outdoor sawah, rooftop semi-terbuka. Menu kopi signature, promo harian, buka 11.00-22.00 setiap hari.",
   city: "Metro, Lampung",
   address:
     "Jl. Letjend Alamsyah Ratu Prawira Negara, Metro Pusat, Kota Metro, Lampung 34111",
