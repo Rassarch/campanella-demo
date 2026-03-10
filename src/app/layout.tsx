@@ -15,9 +15,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Campanella Coffee & Eatery" }],
   openGraph: {
-    title: "Campanella Coffee & Eatery — Metro, Lampung",
+    title: "Coffee Shop Metro Terbaik - Campanella Coffee & Eatery",
     description:
-      "Tiga zona nongkrong premium di Metro: indoor mewah, outdoor sawah, rooftop semi-terbuka.",
+      "Coffee shop Metro terbaik dengan 3 zona premium: indoor mewah, outdoor sawah, rooftop semi-terbuka. Menu kopi signature, promo harian, buka 11.00-22.00.",
     type: "website",
     locale: "id_ID",
   },
