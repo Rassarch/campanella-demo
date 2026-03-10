@@ -3,7 +3,7 @@ import "./globals.css";
 import MyProvider from "@/context/MyProvider";
 
 export const metadata: Metadata = {
-  title: "Campanella Coffee & Eatery — Metro, Lampung",
+  title: "Coffee Shop Metro Terbaik - Campanella Coffee & Eatery",
   description:
     "Tiga zona nongkrong premium: indoor mewah, outdoor sawah, rooftop semi-terbuka. Coffee & Eatery terbaik di Metro, Lampung.",
   keywords: [
